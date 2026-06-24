@@ -1,4 +1,4 @@
-# SASD Sysadmin
+# SASD SysAdmin
 
 Public Linux administration, automation and security resources by **SASD – Scientific and Software Development**.
 
@@ -14,16 +14,6 @@ This account collects practical material for system administration, Linux harden
 - Ansible-based configuration management
 - Monitoring and operational checklists
 - Small-company sysadmin practices
-
-## Planned Repositories
-
-| Repository | Purpose |
-|---|---|
-| `linux-hardening-baseline` | Practical Linux hardening checklist and baseline configuration |
-| `auditd-rules` | Comprehensive auditd rules for monitoring security-relevant system activity |
-| `ansible-linux-baseline` | Ansible playbooks and roles for repeatable Linux configuration |
-| `bash-admin-scripts` | Small, readable administration scripts for daily Linux work |
-| `sysadmin-docs` | Runbooks, checklists and operational documentation |
 
 ## Principles
 
